@@ -1,3 +1,14 @@
+## Notes
+
+If you're thinking about using this because it has some awesome features, do it. I didn't build it, but im sure as shit don't think it deserves not to exist. I used to like Slack because it ran cross platform in a browser, but pulling some lame BS of sending a lone open source developer a Cease and Desist for a fucking extension is a dick move. Its too late now anyway, does a fucking internet company not know how the internet works? Once this shit hit the web, its there...forever.
+
+I don't really use Slack anyway, its usually forced upon me because the company I am working for at the time use it as a selling point ( serious ). Discord is better, Subreddits should used for OS projects and Jitsi is better for conference calls. There I said it. 
+
+-- shaunix
+
+![HACK THE PLANET](https://media3.giphy.com/media/FnGJfc18tDDHy/giphy.gif)
+
+
 # BetterSlack :unicorn:
 
 A chrome extension to improve my Slack experience. You can [read more here](https://g3rv4.com/2018/08/betterslack). Unfortunately, **this project will die soon because injecting javascript into Slack breaks their terms**. Read [my post here](https://g3rv4.com/2018/08/bye-bye-betterslack)
